@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom Attributes to change the component -->
+    <declare-styleable name="LoadingButton">
+
+        <!-- Button -->
+        <attr name="buttonLabel" format="string"/>
+        <attr name="buttonColor" format="color"/>
+        <attr name="buttonFont" format="reference"/>
+        <attr name="buttonTextSize" format="float"/>
+
+        <!-- Loading (ProgressBar) -->
+        <attr name="loadingColor" format="color"/>
+        <attr name="isLoading" format="boolean"/>
+
+    </declare-styleable>
+</resources>

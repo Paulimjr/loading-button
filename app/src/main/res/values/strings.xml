@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadingButton</string>
+    <string name="label_test">Send message</string>
+    <string name="default_btn_text">Sample text</string>
+</resources>
