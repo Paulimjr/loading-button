@@ -13,7 +13,7 @@
         android:id="@+id/btnLoading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:buttonColor="@color/colorAccent"
+        app:buttonColor="@color/default_btn_color"
         app:buttonLabel="@string/label_test"
         app:isLoading="true"
         app:loadingColor="@android:color/white"
